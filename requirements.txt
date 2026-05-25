@@ -1,0 +1,27 @@
+# 🤖 LangChain & LangGraph (Orquestração)
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-core==0.1.8
+langgraph==0.0.38
+
+# 🧠 Modelos LLM
+anthropic==0.7.1
+
+# 🌐 Web Framework (NOVO - pra API)
+flask==2.3.0
+flask-cors==4.0.0
+
+# 🔧 Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+requests==2.31.0
+
+# 📊 Geração de Documentos
+python-pptx==0.6.21
+pypdf==4.0.1
+
+# 🧪 Testes
+pytest==7.4.0
+
+# ⚡ Performance (recomendado pra produção)
+gunicorn==21.2.0
